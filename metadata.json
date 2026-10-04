@@ -1,0 +1,6 @@
+{
+  "name": "Прозрение: Асық ату — Игра по роману Сакена Жунусова",
+  "description": "Интерактивная викторина в стиле казахской игры «Асық ату» по роману Сакена Жунусова «Прозрение» («Заманай мен Аманай»).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
